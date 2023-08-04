@@ -1,0 +1,10 @@
+.dark{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+.white{
+    background-color: aquamarine;
+    height: 100vh;
+    color: black;
+}
